@@ -1,0 +1,7 @@
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\obj\Debug\Grade.csprojAssemblyReference.cache
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\obj\Debug\Grade.csproj.CoreCompileInputs.cache
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\bin\Debug\Grade.exe.config
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\bin\Debug\Grade.exe
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\bin\Debug\Grade.pdb
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\obj\Debug\Grade.exe
+C:\Users\nabil\Desktop\Code\C#\Grade\Grade\obj\Debug\Grade.pdb
