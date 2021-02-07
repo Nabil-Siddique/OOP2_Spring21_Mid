@@ -20,7 +20,7 @@ public class csharpExercise
             odd += i;
         }
         Console.WriteLine("Sum of all odd numbers between 1 to " + num1 + " = " + odd);
-        Console.ReadLine();
+        
 
         num2 = Convert.ToInt32(Console.ReadLine());
 
