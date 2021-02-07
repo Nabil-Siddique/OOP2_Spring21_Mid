@@ -13,7 +13,7 @@ namespace labtask03
         string department;
         float cgpa;
 
-        void ShowInfo()
+        public void ShowInfo()
         {
             Console.WriteLine("Name :" + name);
             Console.WriteLine("ID :" + id);
