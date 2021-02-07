@@ -1,0 +1,7 @@
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\bin\Debug\sum odd and even.exe.config
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\bin\Debug\sum odd and even.exe
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\bin\Debug\sum odd and even.pdb
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\obj\Debug\sum odd and even.csproj.CoreCompileInputs.cache
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\obj\Debug\sum odd and even.exe
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\obj\Debug\sum odd and even.pdb
+C:\Users\nabil\Desktop\Code\C#\sum odd and even\sum odd and even\obj\Debug\sum odd and even.csprojAssemblyReference.cache
