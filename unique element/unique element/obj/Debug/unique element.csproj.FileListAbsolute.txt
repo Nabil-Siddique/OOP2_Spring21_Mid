@@ -4,3 +4,4 @@ C:\Users\nabil\Desktop\Code\C#\unique element\unique element\bin\Debug\unique el
 C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.csproj.CoreCompileInputs.cache
 C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.exe
 C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.pdb
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.csprojAssemblyReference.cache

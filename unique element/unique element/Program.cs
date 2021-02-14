@@ -3,7 +3,7 @@ public class Exercise6
 {
     public static void Main()
     {
-        int n, ctr = 0;
+        int ctr = 0;
         int[] arr1 = new int[5] { 1, 1, 2, 3, 4 };
         int i, j, k;
        
