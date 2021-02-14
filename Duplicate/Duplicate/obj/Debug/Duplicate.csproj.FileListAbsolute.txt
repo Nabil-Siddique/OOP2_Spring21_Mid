@@ -1,0 +1,6 @@
+C:\Users\nabil\Desktop\Code\C#\Duplicate\Duplicate\bin\Debug\Duplicate.exe.config
+C:\Users\nabil\Desktop\Code\C#\Duplicate\Duplicate\bin\Debug\Duplicate.exe
+C:\Users\nabil\Desktop\Code\C#\Duplicate\Duplicate\bin\Debug\Duplicate.pdb
+C:\Users\nabil\Desktop\Code\C#\Duplicate\Duplicate\obj\Debug\Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\nabil\Desktop\Code\C#\Duplicate\Duplicate\obj\Debug\Duplicate.exe
+C:\Users\nabil\Desktop\Code\C#\Duplicate\Duplicate\obj\Debug\Duplicate.pdb
