@@ -1,0 +1,7 @@
+C:\Users\nabil\source\repos\copy array element\copy array element\obj\Debug\copy array element.csprojAssemblyReference.cache
+C:\Users\nabil\source\repos\copy array element\copy array element\obj\Debug\copy array element.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\copy array element\copy array element\bin\Debug\copy array element.exe.config
+C:\Users\nabil\source\repos\copy array element\copy array element\bin\Debug\copy array element.exe
+C:\Users\nabil\source\repos\copy array element\copy array element\bin\Debug\copy array element.pdb
+C:\Users\nabil\source\repos\copy array element\copy array element\obj\Debug\copy array element.exe
+C:\Users\nabil\source\repos\copy array element\copy array element\obj\Debug\copy array element.pdb
