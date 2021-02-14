@@ -1,0 +1,6 @@
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\bin\Debug\unique element.exe.config
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\bin\Debug\unique element.exe
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\bin\Debug\unique element.pdb
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.csproj.CoreCompileInputs.cache
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.exe
+C:\Users\nabil\Desktop\Code\C#\unique element\unique element\obj\Debug\unique element.pdb
