@@ -1,0 +1,2 @@
+C:\Users\nabil\source\repos\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\nabil\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
